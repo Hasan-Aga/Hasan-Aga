@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hasan. I am a fullstack engineer.
-- 📺️ I usually work with React/Node/Spring Boot.
+- 📺️ I usually work with React/Spring Boot/MySql.
 - 🤖 I also look into computer vision on my own time.  
 
 <!---
